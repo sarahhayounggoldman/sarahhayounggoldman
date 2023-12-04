@@ -1,5 +1,5 @@
 - 👋 Hello world, I’m Sarah @sarahhayounggoldman
-- 👀 I’m interested in ... data science, web development, software engineering, and tech for the social good! Currently seeking Summer '24 opportunities :)
+- 👀 I’m interested in ... data science & data engineering, machine learning, software engineering, webdev, and tech for the social good!
 - 🔭 I’m currently working on ... a personal website 
 - 🌱 I’m currently learning ... web scraping
 - 💞️ Outside of coding, I love ... classic literature, baklava, and stand-up comedy, not necessarily in that order :)
