@@ -1,4 +1,4 @@
-# 👋 Hello world, I’m Sarah @sarahhayounggoldman
+## 👋 Hello world, I’m Sarah!
 - 👀 I’m interested in ... data science & data engineering, machine learning, software engineering, webdev, and tech for the social good!
 - 🔭 I’m currently working on ... a personal website! Check it out, it's a work in progress: https://cs.wellesley.edu/~sg110/sarahwebsite/index.html 
 - 🌱 I’m currently learning ... web scraping
