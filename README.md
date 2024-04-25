@@ -1,4 +1,6 @@
 ## 👋 Hello world, I’m Sarah!
+### I'm a junior at Wellesley College.
+
 - 👀 I’m interested in ... data science & data engineering, machine learning, software engineering, webdev, and tech for the social good!
 - 🔭 I’m currently working on ... a personal website! [Check it out here.](https://sarahgoldman.tech/)
 - 🌱 I’m currently learning ... MongoDB
