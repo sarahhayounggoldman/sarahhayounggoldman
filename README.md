@@ -8,5 +8,4 @@
 - 📫 To access any private repositories ... e-mail me your [GitHub username!](mailto:sg110@wellesley.edu?subject=Test)
 - ☕ To get in touch ... connect with me on [LinkedIn!](https://www.linkedin.com/in/sarahhayounggoldman/)
 
-## This summer (2024) I'll be working as a Data Engineer @ The Hartford, using ML for risk engineering.
-## I'll also be a Break Through Tech AI fellow @ MIT!
+#### This summer (2024) I'll be working as a Data Engineer @ The Hartford, using ML for risk engineering. I'll also be a Break Through Tech AI fellow @ MIT!
