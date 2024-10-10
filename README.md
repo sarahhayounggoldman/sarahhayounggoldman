@@ -8,4 +8,4 @@
 - 📫 To access any private repositories ... e-mail me your [GitHub username!](mailto:sg110@wellesley.edu?subject=Test)
 - ☕ To get in touch ... connect with me on [LinkedIn!](https://www.linkedin.com/in/sarahhayounggoldman/)
 
-#### Prev: Data Engineering @ The Hartford, using AI for risk engineering. Currently: AI/ML fellow @ Break Through Tech MIT, working with Cadence Design Systems to build an RCA model using ML.
+#### Prev: Data Engineering @ The Hartford, using AI for risk engineering. Currently: AI/ML fellow @ Break Through Tech MIT, working with Cadence Design Systems to build an RCA model using ML. Incoming: Systems @ McMaster-Carr.
