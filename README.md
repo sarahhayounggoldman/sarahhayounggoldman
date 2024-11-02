@@ -8,4 +8,8 @@
 - 📫 To access any private repositories ... e-mail me your [GitHub username!](mailto:sg110@wellesley.edu?subject=Test)
 - ☕ To get in touch ... connect with me on [LinkedIn!](https://www.linkedin.com/in/sarahhayounggoldman/)
 
+🛠 Skills:
+  Technical: Python (+ Numpy, Scipy, Scikit-learn, TensorFlow, Pandas, Matplotlib), JavaScript, Java, SQL, HTML/CSS, MongoDB, Express, Node.js, React, EJS, AWS
+  Certifications: IBM Data Science Certificate, Cornell University Machine Learning Certificate
+
 #### Prev: Data Engineering @ The Hartford, using AI for risk engineering. Currently: AI/ML fellow @ Break Through Tech MIT, working with Cadence Design Systems to build an RCA model using ML. Incoming: Systems @ McMaster-Carr.
