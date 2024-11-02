@@ -9,7 +9,13 @@
 - ☕ To get in touch ... connect with me on [LinkedIn!](https://www.linkedin.com/in/sarahhayounggoldman/)
 
 🛠 Skills:
-  Technical: Python (+ Numpy, Scipy, Scikit-learn, TensorFlow, Pandas, Matplotlib), JavaScript, Java, SQL, HTML/CSS, MongoDB, Express, Node.js, React, EJS, AWS
-  Certifications: IBM Data Science Certificate, Cornell University Machine Learning Certificate
+- Technical: Python (+ Numpy, Scipy, Scikit-learn, TensorFlow, Pandas, Matplotlib), JavaScript, Java, SQL, HTML/CSS, MongoDB, Express, Node.js, React, EJS, AWS
+- Certifications: IBM Data Science Certificate, Cornell University Machine Learning Certificate
 
+🎯 Featured Project: [Root Cause Analysis for Cadence Design Systems](https://github.com/kkmanvi123/root-cause-analysis)
+
+- Tools: Python (+ pandas, scikit-learn)
+- What We Did: Preprocessed and vectorized text data using spaCy, then built an SVM classifier to predict sentiment (positive, negative, or neutral).
+- Results: Achieved 0.92 ROC-AUC, providing valuable insights into bug classsification
+ 
 #### Prev: Data Engineering @ The Hartford, using AI for risk engineering. Currently: AI/ML fellow @ Break Through Tech MIT, working with Cadence Design Systems to build an RCA model using ML. Incoming: Systems @ McMaster-Carr.
