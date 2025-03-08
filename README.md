@@ -16,6 +16,6 @@
 
 - Tools: Python (+ pandas, scikit-learn)
 - What We Did: Using publicly available bug data from Microsoft, built a bug classification system in the terminal making use of a random forest classifier
-- Results: Achieved 0.92 ROC-AUC, providing valuable insights into bug classsification
+- Results: Achieved 0.86 ROC-AUC, providing valuable insights into bug classsification
  
 #### Prev: Data Engineering @ The Hartford, using AI for risk engineering. Currently: AI/ML fellow @ Break Through Tech MIT, worked with Cadence Design Systems to build an RCA model using ML. Incoming: Systems @ McMaster-Carr.
